@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/Guest/Desktop/MvcApiCall/MvcApiCall.csproj",
+  "FilePath": "/Users/Guest/Desktop/MyApiCall/MvcApiCall.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2961,43 +2961,58 @@
   "RootNamespace": "MvcApiCall",
   "Documents": [
     {
-      "FilePath": "/Users/Guest/Desktop/MvcApiCall/Views/_ViewImports.cshtml",
-      "TargetPath": "Views/_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Guest/Desktop/MvcApiCall/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views/Home/Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Guest/Desktop/MvcApiCall/Views/Shared/Error.cshtml",
-      "TargetPath": "Views/Shared/Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Guest/Desktop/MvcApiCall/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views/Shared/_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Guest/Desktop/MvcApiCall/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Guest/Desktop/MvcApiCall/Views/_ViewStart.cshtml",
-      "TargetPath": "Views/_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Guest/Desktop/MvcApiCall/Views/Shared/_CookieConsentPartial.cshtml",
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/Shared/_CookieConsentPartial.cshtml",
       "TargetPath": "Views/Shared/_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/Guest/Desktop/MvcApiCall/Views/Home/Index.cshtml",
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views/Home/Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/Account/Index.cshtml",
+      "TargetPath": "Views/Account/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/Shared/Error.cshtml",
+      "TargetPath": "Views/Shared/Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/Account/Login.cshtml",
+      "TargetPath": "Views/Account/Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/_ViewStart.cshtml",
+      "TargetPath": "Views/_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/Home/Index.cshtml",
       "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/Account/Register.cshtml",
+      "TargetPath": "Views/Account/Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Guest/Desktop/MyApiCall/Views/_ViewImports.cshtml",
+      "TargetPath": "Views/_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],
